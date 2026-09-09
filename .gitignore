@@ -1,0 +1,21 @@
+# Virtuelno okruženje
+.venv/
+
+# Python privremeni fajlovi
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modeli i privremeni fajlovi
+*.pkl
+*.joblib
+*.log
