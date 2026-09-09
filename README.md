@@ -26,7 +26,12 @@ Korisnik aplikaciji prosledjuje kraći MIDI odlomak, nakon cega sistem pretrazuj
 
 ## Pokretanje projekta
 
-Aktiviranje virtuelnog okruženja:
+Aktiviranje virtuelnog okruzenja:
 
 ```bash
 source .venv/bin/activate
+```
+Pokretanje streamlit aplikacije:
+
+```bash
+streamlit run app/app.py
