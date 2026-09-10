@@ -1,0 +1,3992 @@
+{
+  "file_name": "bwv111.6.mid",
+  "file_path": "/Users/macbookpro/Desktop/classic-music-retrieval/data/raw/bach/bwv111.6.mid",
+  "number_of_parts": 4,
+  "parts": [
+    {
+      "part_number": 1,
+      "instrument": null,
+      "events": [
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 0.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 1.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 2.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 3.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 4.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 5.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 6.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 7.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 8.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 9.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 10.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D5"
+          ],
+          "midi_pitches": [
+            74
+          ],
+          "offset": 11.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D5"
+          ],
+          "midi_pitches": [
+            74
+          ],
+          "offset": 12.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 12.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 13.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 14.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 15.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 16.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 17.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 20.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 21.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 22.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 23.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 24.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 25.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 26.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 27.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 28.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 29.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 30.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D5"
+          ],
+          "midi_pitches": [
+            74
+          ],
+          "offset": 31.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D5"
+          ],
+          "midi_pitches": [
+            74
+          ],
+          "offset": 32.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 32.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 33.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 34.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 35.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 36.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 37.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 40.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 41.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 42.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 43.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 44.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 44.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 45.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 46.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 47.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 48.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 49.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 52.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 53.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 54.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 55.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 56.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 57.0,
+          "duration": 2.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 59.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 60.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 61.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 62.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 63.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 64.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 65.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 66.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 67.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 68.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 69.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 70.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D5"
+          ],
+          "midi_pitches": [
+            74
+          ],
+          "offset": 71.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D5"
+          ],
+          "midi_pitches": [
+            74
+          ],
+          "offset": 72.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 72.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 73.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C5"
+          ],
+          "midi_pitches": [
+            72
+          ],
+          "offset": 74.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 75.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B4"
+          ],
+          "midi_pitches": [
+            71
+          ],
+          "offset": 76.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 77.0,
+          "duration": 3.0
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "instrument": null,
+      "events": [
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 0.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 1.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 2.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 2.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 3.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 3.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 4.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 5.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 6.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 7.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 8.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 9.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 10.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 10.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 11.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 11.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 12.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 12.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 13.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 14.0,
+          "duration": 1.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 15.5,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 15.75,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 16.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 17.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 20.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 21.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 22.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 22.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 23.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 23.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 24.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 25.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 26.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 27.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 28.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 29.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 30.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 30.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 31.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 31.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 32.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 32.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 33.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 34.0,
+          "duration": 1.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 35.5,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 35.75,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 36.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 37.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 40.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 41.0,
+          "duration": 1.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 42.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 43.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 44.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 44.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 45.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 46.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 46.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 47.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 48.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 49.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 52.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 53.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 53.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 54.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 54.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 55.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 56.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 57.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 58.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 58.5,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 58.75,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 59.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 60.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 61.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 62.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 62.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 63.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 63.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 64.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 65.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 66.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 67.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 68.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 69.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 70.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 70.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 71.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 71.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 72.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 72.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 73.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A4"
+          ],
+          "midi_pitches": [
+            69
+          ],
+          "offset": 74.0,
+          "duration": 1.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 75.5,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#4"
+          ],
+          "midi_pitches": [
+            66
+          ],
+          "offset": 75.75,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#4"
+          ],
+          "midi_pitches": [
+            68
+          ],
+          "offset": 76.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 77.0,
+          "duration": 3.0
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "instrument": null,
+      "events": [
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 0.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 1.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 2.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 3.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 4.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 4.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 5.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 5.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 6.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 7.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 8.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 9.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 10.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 11.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 11.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 12.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 12.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 13.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 16.0,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 16.25,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 16.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 17.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 20.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 21.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 22.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 23.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 24.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 24.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 25.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 25.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 26.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 27.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 28.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 29.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 30.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 31.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 31.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 32.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 32.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 33.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 36.0,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 36.25,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 36.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 37.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 40.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 41.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 41.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 42.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 43.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 44.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E-4"
+          ],
+          "midi_pitches": [
+            63
+          ],
+          "offset": 44.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 45.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 46.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 47.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 48.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 49.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 52.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 52.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 53.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 54.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 55.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F4"
+          ],
+          "midi_pitches": [
+            65
+          ],
+          "offset": 55.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G4"
+          ],
+          "midi_pitches": [
+            67
+          ],
+          "offset": 56.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 56.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 57.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 58.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 58.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#3"
+          ],
+          "midi_pitches": [
+            56
+          ],
+          "offset": 59.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 60.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 61.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 62.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 63.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 64.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 64.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 65.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 65.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 66.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 67.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 68.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 69.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 70.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 71.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 71.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 72.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 72.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E4"
+          ],
+          "midi_pitches": [
+            64
+          ],
+          "offset": 73.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 76.0,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 76.25,
+          "duration": 0.25
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D4"
+          ],
+          "midi_pitches": [
+            62
+          ],
+          "offset": 76.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 77.0,
+          "duration": 3.0
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "instrument": null,
+      "events": [
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 0.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 1.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 2.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 3.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 3.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 4.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 4.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 5.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G2"
+          ],
+          "midi_pitches": [
+            43
+          ],
+          "offset": 6.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 7.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 8.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 9.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 10.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 10.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 11.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#3"
+          ],
+          "midi_pitches": [
+            56
+          ],
+          "offset": 11.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 12.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 13.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 13.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 14.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 14.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 15.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 16.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A2"
+          ],
+          "midi_pitches": [
+            45
+          ],
+          "offset": 17.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 20.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 21.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 22.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 23.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 23.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 24.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 24.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 25.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G2"
+          ],
+          "midi_pitches": [
+            43
+          ],
+          "offset": 26.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 27.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 28.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 29.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 30.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 30.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 31.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#3"
+          ],
+          "midi_pitches": [
+            56
+          ],
+          "offset": 31.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 32.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 33.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 33.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 34.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 34.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 35.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 36.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A2"
+          ],
+          "midi_pitches": [
+            45
+          ],
+          "offset": 37.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 40.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 40.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 41.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 41.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 42.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 42.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 43.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 43.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 44.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 44.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 45.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 45.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 46.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 46.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 47.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A2"
+          ],
+          "midi_pitches": [
+            45
+          ],
+          "offset": 47.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 48.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G2"
+          ],
+          "midi_pitches": [
+            43
+          ],
+          "offset": 49.0,
+          "duration": 3.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 52.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C4"
+          ],
+          "midi_pitches": [
+            60
+          ],
+          "offset": 53.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "B3"
+          ],
+          "midi_pitches": [
+            59
+          ],
+          "offset": 54.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 55.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 56.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 57.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 57.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 58.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 59.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 60.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 61.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 62.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 63.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 63.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 64.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F3"
+          ],
+          "midi_pitches": [
+            53
+          ],
+          "offset": 64.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 65.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G2"
+          ],
+          "midi_pitches": [
+            43
+          ],
+          "offset": 66.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 67.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 68.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G3"
+          ],
+          "midi_pitches": [
+            55
+          ],
+          "offset": 69.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 70.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 70.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "F#3"
+          ],
+          "midi_pitches": [
+            54
+          ],
+          "offset": 71.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "G#3"
+          ],
+          "midi_pitches": [
+            56
+          ],
+          "offset": 71.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A3"
+          ],
+          "midi_pitches": [
+            57
+          ],
+          "offset": 72.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 73.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 73.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "C3"
+          ],
+          "midi_pitches": [
+            48
+          ],
+          "offset": 74.0,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "D3"
+          ],
+          "midi_pitches": [
+            50
+          ],
+          "offset": 74.5,
+          "duration": 0.5
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 75.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "E3"
+          ],
+          "midi_pitches": [
+            52
+          ],
+          "offset": 76.0,
+          "duration": 1.0
+        },
+        {
+          "type": "NOTE",
+          "pitches": [
+            "A2"
+          ],
+          "midi_pitches": [
+            45
+          ],
+          "offset": 77.0,
+          "duration": 3.0
+        }
+      ]
+    }
+  ],
+  "composer": "bach"
+}
