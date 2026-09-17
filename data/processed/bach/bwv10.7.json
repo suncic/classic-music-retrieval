@@ -1,2378 +1,3377 @@
 {
-  "file_name": "bwv10.7.mid",
-  "file_path": "/Users/macbookpro/Desktop/classic-music-retrieval/data/raw/bach/bwv10.7.mid",
-  "number_of_parts": 4,
-  "parts": [
+  "music_events": [
     {
-      "part_number": 1,
-      "instrument": null,
-      "events": [
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 0.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 2.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 4.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 5.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 6.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 7.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-5"
-          ],
-          "midi_pitches": [
-            75
-          ],
-          "offset": 8.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 10.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 12.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 14.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 16.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 20.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 22.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 24.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 25.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 26.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 27.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 28.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 30.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 32.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 36.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 38.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 40.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 41.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 42.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 43.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-5"
-          ],
-          "midi_pitches": [
-            75
-          ],
-          "offset": 44.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 46.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 48.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 50.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 52.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 56.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 58.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 60.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 61.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 62.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 63.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 64.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 66.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 67.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 68.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 70.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 72.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 76.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 80.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 84.0,
-          "duration": 4.0
-        }
-      ]
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 1,
+      "position_in_measure": 0.0,
+      "event_start": 0.0,
+      "time_shift": 0.0
     },
     {
-      "part_number": 2,
-      "instrument": null,
-      "events": [
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 0.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 2.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 4.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F#4"
-          ],
-          "midi_pitches": [
-            66
-          ],
-          "offset": 5.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 6.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 7.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 8.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 9.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 11.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 12.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 14.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 16.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 20.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 24.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 25.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-4"
-          ],
-          "midi_pitches": [
-            63
-          ],
-          "offset": 26.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 27.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 28.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F#4"
-          ],
-          "midi_pitches": [
-            66
-          ],
-          "offset": 30.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 32.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 36.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 38.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 40.0,
-          "duration": 3.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F#4"
-          ],
-          "midi_pitches": [
-            66
-          ],
-          "offset": 43.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 44.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 45.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 46.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 48.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 49.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 50.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 51.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 52.0,
-          "duration": 4.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 56.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 60.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 61.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 62.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-4"
-          ],
-          "midi_pitches": [
-            70
-          ],
-          "offset": 63.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 64.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 66.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 68.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 70.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 71.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B3"
-          ],
-          "midi_pitches": [
-            59
-          ],
-          "offset": 72.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 73.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 74.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 75.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-4"
-          ],
-          "midi_pitches": [
-            63
-          ],
-          "offset": 76.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-4"
-          ],
-          "midi_pitches": [
-            63
-          ],
-          "offset": 80.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 82.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 83.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 84.0,
-          "duration": 4.0
-        }
-      ]
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 0.0,
+      "event_start": 0.0,
+      "time_shift": 0.0
     },
     {
-      "part_number": 3,
-      "instrument": null,
-      "events": [
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 0.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 2.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 4.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 5.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 6.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 7.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 8.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 9.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 11.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 12.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 14.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 16.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 20.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 24.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 25.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 26.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 27.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 28.0,
-          "duration": 3.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 31.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 32.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 36.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 38.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 40.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 41.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 42.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 43.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 44.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 45.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 46.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 47.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 48.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 50.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 51.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 52.0,
-          "duration": 4.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 56.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 58.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 59.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 60.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 61.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 62.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 64.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 65.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 66.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F#4"
-          ],
-          "midi_pitches": [
-            66
-          ],
-          "offset": 67.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 68.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 70.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-4"
-          ],
-          "midi_pitches": [
-            63
-          ],
-          "offset": 71.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 72.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B3"
-          ],
-          "midi_pitches": [
-            59
-          ],
-          "offset": 73.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 74.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 75.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 76.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 77.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 78.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 80.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B3"
-          ],
-          "midi_pitches": [
-            59
-          ],
-          "offset": 82.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 83.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B3"
-          ],
-          "midi_pitches": [
-            59
-          ],
-          "offset": 84.0,
-          "duration": 4.0
-        }
-      ]
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 1,
+      "position_in_measure": 0.0,
+      "event_start": 0.0,
+      "time_shift": 0.0
     },
     {
-      "part_number": 4,
-      "instrument": null,
-      "events": [
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 0.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 2.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 4.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 5.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 6.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F#3"
-          ],
-          "midi_pitches": [
-            54
-          ],
-          "offset": 7.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 8.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 9.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 10.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 11.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 12.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 13.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 14.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-2"
-          ],
-          "midi_pitches": [
-            46
-          ],
-          "offset": 16.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 20.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 22.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 24.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 25.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 26.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 27.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 28.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 29.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 30.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 32.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 36.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 38.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 40.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 41.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 42.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 44.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 45.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 46.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 47.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 48.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 49.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 50.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-2"
-          ],
-          "midi_pitches": [
-            46
-          ],
-          "offset": 52.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-2"
-          ],
-          "midi_pitches": [
-            46
-          ],
-          "offset": 56.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 57.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 58.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 59.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 60.0,
-          "duration": 3.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 63.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 64.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-3"
-          ],
-          "midi_pitches": [
-            58
-          ],
-          "offset": 65.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 66.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B-2"
-          ],
-          "midi_pitches": [
-            46
-          ],
-          "offset": 68.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 69.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 70.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 71.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 72.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 74.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 75.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 76.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 77.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E-3"
-          ],
-          "midi_pitches": [
-            51
-          ],
-          "offset": 78.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 79.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 80.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 84.0,
-          "duration": 4.0
-        }
-      ]
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 1,
+      "position_in_measure": 0.0,
+      "event_start": 0.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 0.0,
+      "event_start": 4.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 0.0,
+      "event_start": 4.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 2,
+      "position_in_measure": 0.0,
+      "event_start": 4.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 2,
+      "position_in_measure": 0.0,
+      "event_start": 4.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 1.0,
+      "event_start": 5.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F#4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 1.0,
+      "event_start": 5.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 2,
+      "position_in_measure": 1.0,
+      "event_start": 5.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 2,
+      "position_in_measure": 1.0,
+      "event_start": 5.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F#3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 3,
+      "position_in_measure": 0.0,
+      "event_start": 8.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 0.0,
+      "event_start": 8.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 3,
+      "position_in_measure": 0.0,
+      "event_start": 8.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 3,
+      "position_in_measure": 0.0,
+      "event_start": 8.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 1.0,
+      "event_start": 9.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 3,
+      "position_in_measure": 1.0,
+      "event_start": 9.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 3,
+      "position_in_measure": 1.0,
+      "event_start": 9.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 3,
+      "position_in_measure": 2.0,
+      "event_start": 10.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 3,
+      "position_in_measure": 2.0,
+      "event_start": 10.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 3.0,
+      "event_start": 11.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 3,
+      "position_in_measure": 3.0,
+      "event_start": 11.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 3,
+      "position_in_measure": 3.0,
+      "event_start": 11.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 0.0,
+      "event_start": 12.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 0.0,
+      "event_start": 12.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 4,
+      "position_in_measure": 0.0,
+      "event_start": 12.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 4,
+      "position_in_measure": 0.0,
+      "event_start": 12.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 4,
+      "position_in_measure": 1.0,
+      "event_start": 13.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 0.0,
+      "event_start": 16.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 5,
+      "position_in_measure": 0.0,
+      "event_start": 16.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 5,
+      "position_in_measure": 0.0,
+      "event_start": 16.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-2",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 5,
+      "position_in_measure": 0.0,
+      "event_start": 16.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 0.0,
+      "event_start": 20.0,
+      "time_shift": 4.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 6,
+      "position_in_measure": 0.0,
+      "event_start": 20.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 6,
+      "position_in_measure": 0.0,
+      "event_start": 20.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 6,
+      "position_in_measure": 0.0,
+      "event_start": 20.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 2.0,
+      "event_start": 22.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 6,
+      "position_in_measure": 2.0,
+      "event_start": 22.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 0.0,
+      "event_start": 24.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 0.0,
+      "event_start": 24.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 7,
+      "position_in_measure": 0.0,
+      "event_start": 24.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 7,
+      "position_in_measure": 0.0,
+      "event_start": 24.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 0.0,
+      "event_start": 28.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 8,
+      "position_in_measure": 0.0,
+      "event_start": 28.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 3.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 8,
+      "position_in_measure": 0.0,
+      "event_start": 28.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 8,
+      "position_in_measure": 0.0,
+      "event_start": 28.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 8,
+      "position_in_measure": 1.0,
+      "event_start": 29.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 2.0,
+      "event_start": 30.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F#4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 8,
+      "position_in_measure": 2.0,
+      "event_start": 30.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 8,
+      "position_in_measure": 2.0,
+      "event_start": 30.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 8,
+      "position_in_measure": 3.0,
+      "event_start": 31.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 0.0,
+      "event_start": 32.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 9,
+      "position_in_measure": 0.0,
+      "event_start": 32.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 9,
+      "position_in_measure": 0.0,
+      "event_start": 32.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 9,
+      "position_in_measure": 0.0,
+      "event_start": 32.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 0.0,
+      "event_start": 36.0,
+      "time_shift": 4.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 10,
+      "position_in_measure": 0.0,
+      "event_start": 36.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 10,
+      "position_in_measure": 0.0,
+      "event_start": 36.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 10,
+      "position_in_measure": 0.0,
+      "event_start": 36.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 0.0,
+      "event_start": 40.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 3.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 0.0,
+      "event_start": 40.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 11,
+      "position_in_measure": 0.0,
+      "event_start": 40.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 11,
+      "position_in_measure": 0.0,
+      "event_start": 40.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 1.0,
+      "event_start": 41.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 11,
+      "position_in_measure": 1.0,
+      "event_start": 41.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 11,
+      "position_in_measure": 1.0,
+      "event_start": 41.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F#4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 12,
+      "position_in_measure": 0.0,
+      "event_start": 44.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 0.0,
+      "event_start": 44.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 12,
+      "position_in_measure": 0.0,
+      "event_start": 44.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 12,
+      "position_in_measure": 0.0,
+      "event_start": 44.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 1.0,
+      "event_start": 45.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 12,
+      "position_in_measure": 1.0,
+      "event_start": 45.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 12,
+      "position_in_measure": 1.0,
+      "event_start": 45.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 12,
+      "position_in_measure": 2.0,
+      "event_start": 46.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 2.0,
+      "event_start": 46.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 12,
+      "position_in_measure": 2.0,
+      "event_start": 46.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 12,
+      "position_in_measure": 2.0,
+      "event_start": 46.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 12,
+      "position_in_measure": 3.0,
+      "event_start": 47.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 12,
+      "position_in_measure": 3.0,
+      "event_start": 47.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 13,
+      "position_in_measure": 0.0,
+      "event_start": 48.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 13,
+      "position_in_measure": 0.0,
+      "event_start": 48.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 13,
+      "position_in_measure": 0.0,
+      "event_start": 48.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 13,
+      "position_in_measure": 0.0,
+      "event_start": 48.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 13,
+      "position_in_measure": 1.0,
+      "event_start": 49.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 13,
+      "position_in_measure": 1.0,
+      "event_start": 49.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 13,
+      "position_in_measure": 2.0,
+      "event_start": 50.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 13,
+      "position_in_measure": 2.0,
+      "event_start": 50.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 13,
+      "position_in_measure": 2.0,
+      "event_start": 50.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 13,
+      "position_in_measure": 2.0,
+      "event_start": 50.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 13,
+      "position_in_measure": 3.0,
+      "event_start": 51.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 13,
+      "position_in_measure": 3.0,
+      "event_start": 51.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 14,
+      "position_in_measure": 0.0,
+      "event_start": 52.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 14,
+      "position_in_measure": 0.0,
+      "event_start": 52.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 14,
+      "position_in_measure": 0.0,
+      "event_start": 52.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-2",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 14,
+      "position_in_measure": 0.0,
+      "event_start": 52.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 15,
+      "position_in_measure": 0.0,
+      "event_start": 56.0,
+      "time_shift": 4.0
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 15,
+      "position_in_measure": 0.0,
+      "event_start": 56.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 15,
+      "position_in_measure": 0.0,
+      "event_start": 56.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-2",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 15,
+      "position_in_measure": 0.0,
+      "event_start": 56.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 15,
+      "position_in_measure": 1.0,
+      "event_start": 57.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 15,
+      "position_in_measure": 2.0,
+      "event_start": 58.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 15,
+      "position_in_measure": 2.0,
+      "event_start": 58.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 15,
+      "position_in_measure": 2.0,
+      "event_start": 58.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 15,
+      "position_in_measure": 3.0,
+      "event_start": 59.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 15,
+      "position_in_measure": 3.0,
+      "event_start": 59.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 16,
+      "position_in_measure": 0.0,
+      "event_start": 60.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 16,
+      "position_in_measure": 0.0,
+      "event_start": 60.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 16,
+      "position_in_measure": 0.0,
+      "event_start": 60.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 3.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 16,
+      "position_in_measure": 0.0,
+      "event_start": 60.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 16,
+      "position_in_measure": 1.0,
+      "event_start": 61.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 16,
+      "position_in_measure": 1.0,
+      "event_start": 61.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 16,
+      "position_in_measure": 1.0,
+      "event_start": 61.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 16,
+      "position_in_measure": 2.0,
+      "event_start": 62.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 16,
+      "position_in_measure": 2.0,
+      "event_start": 62.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 16,
+      "position_in_measure": 2.0,
+      "event_start": 62.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 16,
+      "position_in_measure": 3.0,
+      "event_start": 63.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 16,
+      "position_in_measure": 3.0,
+      "event_start": 63.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 16,
+      "position_in_measure": 3.0,
+      "event_start": 63.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 17,
+      "position_in_measure": 0.0,
+      "event_start": 64.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 17,
+      "position_in_measure": 0.0,
+      "event_start": 64.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 17,
+      "position_in_measure": 0.0,
+      "event_start": 64.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 17,
+      "position_in_measure": 0.0,
+      "event_start": 64.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 17,
+      "position_in_measure": 1.0,
+      "event_start": 65.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 17,
+      "position_in_measure": 1.0,
+      "event_start": 65.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 17,
+      "position_in_measure": 2.0,
+      "event_start": 66.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 17,
+      "position_in_measure": 2.0,
+      "event_start": 66.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 17,
+      "position_in_measure": 2.0,
+      "event_start": 66.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 17,
+      "position_in_measure": 2.0,
+      "event_start": 66.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 17,
+      "position_in_measure": 3.0,
+      "event_start": 67.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F#4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 17,
+      "position_in_measure": 3.0,
+      "event_start": 67.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 18,
+      "position_in_measure": 0.0,
+      "event_start": 68.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 18,
+      "position_in_measure": 0.0,
+      "event_start": 68.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 18,
+      "position_in_measure": 0.0,
+      "event_start": 68.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B-2",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 18,
+      "position_in_measure": 0.0,
+      "event_start": 68.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 18,
+      "position_in_measure": 1.0,
+      "event_start": 69.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 18,
+      "position_in_measure": 2.0,
+      "event_start": 70.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 18,
+      "position_in_measure": 2.0,
+      "event_start": 70.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 18,
+      "position_in_measure": 2.0,
+      "event_start": 70.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 18,
+      "position_in_measure": 2.0,
+      "event_start": 70.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 18,
+      "position_in_measure": 3.0,
+      "event_start": 71.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 18,
+      "position_in_measure": 3.0,
+      "event_start": 71.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 18,
+      "position_in_measure": 3.0,
+      "event_start": 71.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 19,
+      "position_in_measure": 0.0,
+      "event_start": 72.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 19,
+      "position_in_measure": 0.0,
+      "event_start": 72.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 19,
+      "position_in_measure": 0.0,
+      "event_start": 72.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 19,
+      "position_in_measure": 0.0,
+      "event_start": 72.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 19,
+      "position_in_measure": 1.0,
+      "event_start": 73.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 19,
+      "position_in_measure": 1.0,
+      "event_start": 73.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 19,
+      "position_in_measure": 2.0,
+      "event_start": 74.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 19,
+      "position_in_measure": 2.0,
+      "event_start": 74.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 19,
+      "position_in_measure": 2.0,
+      "event_start": 74.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 19,
+      "position_in_measure": 3.0,
+      "event_start": 75.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 19,
+      "position_in_measure": 3.0,
+      "event_start": 75.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 19,
+      "position_in_measure": 3.0,
+      "event_start": 75.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 20,
+      "position_in_measure": 0.0,
+      "event_start": 76.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 20,
+      "position_in_measure": 0.0,
+      "event_start": 76.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 20,
+      "position_in_measure": 0.0,
+      "event_start": 76.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 20,
+      "position_in_measure": 0.0,
+      "event_start": 76.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 20,
+      "position_in_measure": 1.0,
+      "event_start": 77.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 20,
+      "position_in_measure": 1.0,
+      "event_start": 77.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 20,
+      "position_in_measure": 2.0,
+      "event_start": 78.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 20,
+      "position_in_measure": 2.0,
+      "event_start": 78.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 20,
+      "position_in_measure": 3.0,
+      "event_start": 79.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 21,
+      "position_in_measure": 0.0,
+      "event_start": 80.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E-4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 21,
+      "position_in_measure": 0.0,
+      "event_start": 80.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 2.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 21,
+      "position_in_measure": 0.0,
+      "event_start": 80.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 21,
+      "position_in_measure": 0.0,
+      "event_start": 80.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 21,
+      "position_in_measure": 2.0,
+      "event_start": 82.0,
+      "time_shift": 2.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 21,
+      "position_in_measure": 2.0,
+      "event_start": 82.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 21,
+      "position_in_measure": 3.0,
+      "event_start": 83.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 21,
+      "position_in_measure": 3.0,
+      "event_start": 83.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Soprano",
+      "part": 1,
+      "measure": 22,
+      "position_in_measure": 0.0,
+      "event_start": 84.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Alto",
+      "part": 2,
+      "measure": 22,
+      "position_in_measure": 0.0,
+      "event_start": 84.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B3",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Tenor",
+      "part": 3,
+      "measure": 22,
+      "position_in_measure": 0.0,
+      "event_start": 84.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 4.0,
+      "tempo": 120,
+      "instrument": "Bass",
+      "part": 4,
+      "measure": 22,
+      "position_in_measure": 0.0,
+      "event_start": 84.0,
+      "time_shift": 0.0
     }
   ],
+  "harmonic_events": [
+    {
+      "pitches": [
+        "G3",
+        "B-3",
+        "G4",
+        "D5"
+      ],
+      "root": "G3",
+      "quality": "minor",
+      "duration": 2.0,
+      "event_start": 0.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "C4",
+        "F4",
+        "F5"
+      ],
+      "root": "F4",
+      "quality": "major",
+      "duration": 2.0,
+      "event_start": 2.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "D4",
+        "F4",
+        "D5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 4.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "C4",
+        "F#4",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 5.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "B-3",
+        "G4",
+        "D5"
+      ],
+      "root": "G3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 6.0
+    },
+    {
+      "pitches": [
+        "F#3",
+        "A3",
+        "A4",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 7.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "B-3",
+        "G4",
+        "E-5"
+      ],
+      "root": "E-5",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 8.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "C4",
+        "F4",
+        "E-5"
+      ],
+      "root": "F4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 9.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "C4",
+        "F4",
+        "D5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 10.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "B-3",
+        "G4",
+        "D5"
+      ],
+      "root": "G3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 11.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "B-3",
+        "G4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 12.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "B-3",
+        "G4",
+        "C5"
+      ],
+      "root": "C3",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 13.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "F4",
+        "C5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 2.0,
+      "event_start": 14.0
+    },
+    {
+      "pitches": [
+        "B-2",
+        "D4",
+        "F4",
+        "B-4"
+      ],
+      "root": "B-2",
+      "quality": "major",
+      "duration": 4.0,
+      "event_start": 16.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "F4",
+        "D5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 2.0,
+      "event_start": 20.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "B-3",
+        "F4",
+        "F5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 2.0,
+      "event_start": 22.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "F4",
+        "C5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 24.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "C4",
+        "F4",
+        "C5"
+      ],
+      "root": "F4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 25.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "C4",
+        "E-4",
+        "C5"
+      ],
+      "root": "C4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 26.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "C4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 27.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "D4",
+        "G4",
+        "B-4"
+      ],
+      "root": "G4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 28.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "D4",
+        "G4",
+        "B-4"
+      ],
+      "root": "G4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 29.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "D4",
+        "F#4",
+        "A4"
+      ],
+      "root": "D3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 30.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "C4",
+        "F#4",
+        "A4"
+      ],
+      "root": "D3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 31.0
+    },
+    {
+      "pitches": [
+        "G2",
+        "B-3",
+        "D4",
+        "G4"
+      ],
+      "root": "G2",
+      "quality": "minor",
+      "duration": 4.0,
+      "event_start": 32.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "B-3",
+        "G4",
+        "D5"
+      ],
+      "root": "G3",
+      "quality": "minor",
+      "duration": 2.0,
+      "event_start": 36.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "A4",
+        "F5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 2.0,
+      "event_start": 38.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "D4",
+        "F4",
+        "D5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 40.0
+    },
+    {
+      "pitches": [
+        "C4",
+        "F4",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 41.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "D4",
+        "F4",
+        "D5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 42.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "D4",
+        "F#4",
+        "D5"
+      ],
+      "root": "D4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 43.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "D4",
+        "G4",
+        "E-5"
+      ],
+      "root": "E-5",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 44.0
+    },
+    {
+      "pitches": [
+        "C4",
+        "A4",
+        "E-5"
+      ],
+      "root": "A4",
+      "quality": "diminished",
+      "duration": 1.0,
+      "event_start": 45.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "B-3",
+        "B-4",
+        "D5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 46.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "F4",
+        "B-4",
+        "D5"
+      ],
+      "root": "B-4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 47.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "G4",
+        "B-4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 48.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "G4",
+        "B-4",
+        "C5"
+      ],
+      "root": "C3",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 49.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "F4",
+        "B-4",
+        "C5"
+      ],
+      "root": "B-4",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 50.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "A4",
+        "C5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 51.0
+    },
+    {
+      "pitches": [
+        "B-2",
+        "D4",
+        "F4",
+        "B-4"
+      ],
+      "root": "B-2",
+      "quality": "major",
+      "duration": 4.0,
+      "event_start": 52.0
+    },
+    {
+      "pitches": [
+        "B-2",
+        "D5"
+      ],
+      "root": "B-2",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 56.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 57.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "F3",
+        "F5"
+      ],
+      "root": "D3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 58.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "G3",
+        "F5"
+      ],
+      "root": "E-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 59.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "F4",
+        "C5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 60.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "B-3",
+        "G4",
+        "C5"
+      ],
+      "root": "G4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 61.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "A4",
+        "C5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 62.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "C4",
+        "B-4",
+        "C5"
+      ],
+      "root": "C4",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 63.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "C4",
+        "C5"
+      ],
+      "root": "A3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 64.0
+    },
+    {
+      "pitches": [
+        "B-3",
+        "D4",
+        "C5"
+      ],
+      "root": "B-3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 65.0
+    },
+    {
+      "pitches": [
+        "C4",
+        "E4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 66.0
+    },
+    {
+      "pitches": [
+        "C4",
+        "F#4",
+        "A4"
+      ],
+      "root": "F#4",
+      "quality": "diminished",
+      "duration": 1.0,
+      "event_start": 67.0
+    },
+    {
+      "pitches": [
+        "B-2",
+        "D4",
+        "G4",
+        "B-4"
+      ],
+      "root": "G4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 68.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "D4",
+        "G4",
+        "B-4"
+      ],
+      "root": "G4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 69.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "D4",
+        "F4",
+        "A4"
+      ],
+      "root": "D3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 70.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "C4",
+        "E-4",
+        "A4"
+      ],
+      "root": "A4",
+      "quality": "diminished",
+      "duration": 1.0,
+      "event_start": 71.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "B3",
+        "D4",
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 72.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "B3",
+        "D4",
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 73.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "C4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 74.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "D4",
+        "F4",
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 75.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "D4",
+        "E-4",
+        "G4"
+      ],
+      "root": "C3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 76.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "G3",
+        "E-4",
+        "G4"
+      ],
+      "root": "E-4",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 77.0
+    },
+    {
+      "pitches": [
+        "E-3",
+        "C4",
+        "E-4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 78.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "E-4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 79.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "C4",
+        "E-4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "minor",
+      "duration": 2.0,
+      "event_start": 80.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "B3",
+        "D4",
+        "G4"
+      ],
+      "root": "G3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 82.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "A3",
+        "C4",
+        "G4"
+      ],
+      "root": "A3",
+      "quality": "minor",
+      "duration": 1.0,
+      "event_start": 83.0
+    },
+    {
+      "pitches": [
+        "G2",
+        "B3",
+        "D4",
+        "G4"
+      ],
+      "root": "G2",
+      "quality": "major",
+      "duration": 4.0,
+      "event_start": 84.0
+    }
+  ],
+  "file_name": "bwv10.7.mid",
   "composer": "bach"
 }

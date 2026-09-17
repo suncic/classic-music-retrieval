@@ -1,2087 +1,3722 @@
 {
-  "file_name": "movement1_exposition.mid",
-  "file_path": "/Users/macbookpro/Desktop/classic-music-retrieval/data/raw/mozart/movement1_exposition.mid",
-  "number_of_parts": 2,
-  "parts": [
+  "music_events": [
     {
-      "part_number": 1,
-      "instrument": null,
-      "events": [
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 0.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 2.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 3.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 4.0,
-          "duration": 1.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 5.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 5.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 6.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 7.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A5"
-          ],
-          "midi_pitches": [
-            81
-          ],
-          "offset": 8.0,
-          "duration": 2.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 10.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C6"
-          ],
-          "midi_pitches": [
-            84
-          ],
-          "offset": 11.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 12.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 13.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 13.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 13.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 14.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 15.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 16.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 16.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 16.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 17.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 17.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 17.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 17.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A5"
-          ],
-          "midi_pitches": [
-            81
-          ],
-          "offset": 18.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 18.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 18.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 18.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 19.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 19.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 19.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 19.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 20.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 20.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 20.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 21.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 21.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 21.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 21.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 22.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 22.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 22.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 22.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 23.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 23.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 23.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 23.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 24.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 24.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 24.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 25.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 25.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 25.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 25.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 26.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 26.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 26.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 26.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 27.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 27.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 27.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 27.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 28.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 28.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 28.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 29.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 29.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 29.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 29.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 30.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 30.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 30.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 30.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 31.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 31.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 31.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 31.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 32.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 32.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 32.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 33.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 33.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 33.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C#5"
-          ],
-          "midi_pitches": [
-            73
-          ],
-          "offset": 33.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 34.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 34.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 34.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C#5"
-          ],
-          "midi_pitches": [
-            73
-          ],
-          "offset": 34.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 35.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 35.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 35.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 35.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A5"
-          ],
-          "midi_pitches": [
-            81
-          ],
-          "offset": 36.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B5"
-          ],
-          "midi_pitches": [
-            83
-          ],
-          "offset": 36.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C6"
-          ],
-          "midi_pitches": [
-            84
-          ],
-          "offset": 36.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B5"
-          ],
-          "midi_pitches": [
-            83
-          ],
-          "offset": 36.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A5"
-          ],
-          "midi_pitches": [
-            81
-          ],
-          "offset": 37.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 37.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 37.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 37.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 38.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 38.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A5"
-          ],
-          "midi_pitches": [
-            81
-          ],
-          "offset": 38.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 38.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F5"
-          ],
-          "midi_pitches": [
-            77
-          ],
-          "offset": 39.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 39.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 39.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 39.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B4"
-          ],
-          "midi_pitches": [
-            71
-          ],
-          "offset": 40.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 40.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 41.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 41.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 42.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G5"
-          ],
-          "midi_pitches": [
-            79
-          ],
-          "offset": 42.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E5"
-          ],
-          "midi_pitches": [
-            76
-          ],
-          "offset": 43.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C5"
-          ],
-          "midi_pitches": [
-            72
-          ],
-          "offset": 43.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D5"
-          ],
-          "midi_pitches": [
-            74
-          ],
-          "offset": 44.0,
-          "duration": 1.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "B4",
-            "D5",
-            "G5"
-          ],
-          "midi_pitches": [
-            71,
-            74,
-            79
-          ],
-          "offset": 45.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 46.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 47.0,
-          "duration": 1.0
-        }
-      ]
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 2.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 1,
+      "position_in_measure": 0.0,
+      "event_start": 0.0,
+      "time_shift": 0.0
     },
     {
-      "part_number": 2,
-      "instrument": null,
-      "events": [
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 0.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 0.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 1.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 1.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 2.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 2.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 3.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 3.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 4.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 4.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 5.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 5.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 6.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 6.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 7.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 7.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 8.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 8.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 9.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A4"
-          ],
-          "midi_pitches": [
-            69
-          ],
-          "offset": 9.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 10.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 10.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 11.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 11.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B3"
-          ],
-          "midi_pitches": [
-            59
-          ],
-          "offset": 12.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 12.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D4"
-          ],
-          "midi_pitches": [
-            62
-          ],
-          "offset": 13.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 13.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C4"
-          ],
-          "midi_pitches": [
-            60
-          ],
-          "offset": 14.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 14.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E4"
-          ],
-          "midi_pitches": [
-            64
-          ],
-          "offset": 15.0,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G4"
-          ],
-          "midi_pitches": [
-            67
-          ],
-          "offset": 15.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F4"
-          ],
-          "midi_pitches": [
-            65
-          ],
-          "offset": 16.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 17.0,
-          "duration": 2.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "F3",
-            "C4"
-          ],
-          "midi_pitches": [
-            53,
-            60
-          ],
-          "offset": 19.0,
-          "duration": 1.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "E3",
-            "C4"
-          ],
-          "midi_pitches": [
-            52,
-            60
-          ],
-          "offset": 20.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 21.0,
-          "duration": 2.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "E3",
-            "C4"
-          ],
-          "midi_pitches": [
-            52,
-            60
-          ],
-          "offset": 23.0,
-          "duration": 1.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "D3",
-            "B3"
-          ],
-          "midi_pitches": [
-            50,
-            59
-          ],
-          "offset": 24.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 25.0,
-          "duration": 2.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "D3",
-            "B3"
-          ],
-          "midi_pitches": [
-            50,
-            59
-          ],
-          "offset": 27.0,
-          "duration": 1.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "C3",
-            "C4"
-          ],
-          "midi_pitches": [
-            48,
-            60
-          ],
-          "offset": 28.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 29.0,
-          "duration": 2.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "C3",
-            "E3"
-          ],
-          "midi_pitches": [
-            48,
-            52
-          ],
-          "offset": 31.0,
-          "duration": 1.0
-        },
-        {
-          "type": "CHORD",
-          "pitches": [
-            "F3",
-            "A3"
-          ],
-          "midi_pitches": [
-            53,
-            57
-          ],
-          "offset": 32.0,
-          "duration": 4.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F3"
-          ],
-          "midi_pitches": [
-            53
-          ],
-          "offset": 36.0,
-          "duration": 1.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 37.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "A3"
-          ],
-          "midi_pitches": [
-            57
-          ],
-          "offset": 38.0,
-          "duration": 1.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "F#3"
-          ],
-          "midi_pitches": [
-            54
-          ],
-          "offset": 39.5,
-          "duration": 0.5
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 40.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B2"
-          ],
-          "midi_pitches": [
-            47
-          ],
-          "offset": 40.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 40.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 40.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 41.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 41.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E3"
-          ],
-          "midi_pitches": [
-            52
-          ],
-          "offset": 41.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 41.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 42.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "B2"
-          ],
-          "midi_pitches": [
-            47
-          ],
-          "offset": 42.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "D3"
-          ],
-          "midi_pitches": [
-            50
-          ],
-          "offset": 42.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 42.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 43.0,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "C3"
-          ],
-          "midi_pitches": [
-            48
-          ],
-          "offset": 43.25,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "E3"
-          ],
-          "midi_pitches": [
-            52
-          ],
-          "offset": 43.5,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 43.75,
-          "duration": 0.25
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 44.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G3"
-          ],
-          "midi_pitches": [
-            55
-          ],
-          "offset": 45.0,
-          "duration": 1.0
-        },
-        {
-          "type": "NOTE",
-          "pitches": [
-            "G2"
-          ],
-          "midi_pitches": [
-            43
-          ],
-          "offset": 46.0,
-          "duration": 1.0
-        },
-        {
-          "type": "REST",
-          "pitches": [],
-          "midi_pitches": [],
-          "offset": 47.0,
-          "duration": 1.0
-        }
-      ]
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 0.0,
+      "event_start": 0.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 0.5,
+      "event_start": 0.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 1.0,
+      "event_start": 1.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 1.5,
+      "event_start": 1.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 2.0,
+      "event_start": 2.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 1,
+      "position_in_measure": 3.0,
+      "event_start": 3.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 3.0,
+      "event_start": 3.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 1,
+      "position_in_measure": 3.0,
+      "event_start": 3.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 1.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 0.0,
+      "event_start": 4.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 0.0,
+      "event_start": 4.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 0.5,
+      "event_start": 4.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 1.0,
+      "event_start": 5.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 1.5,
+      "event_start": 5.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 1.5,
+      "event_start": 5.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 1.5,
+      "event_start": 5.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 2.0,
+      "event_start": 6.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 2,
+      "position_in_measure": 3.0,
+      "event_start": 7.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A5",
+      "duration": 2.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 3,
+      "position_in_measure": 0.0,
+      "event_start": 8.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 0.0,
+      "event_start": 8.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 0.5,
+      "event_start": 8.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 1.0,
+      "event_start": 9.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 1.5,
+      "event_start": 9.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 3,
+      "position_in_measure": 2.0,
+      "event_start": 10.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 2.0,
+      "event_start": 10.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 2.0,
+      "event_start": 10.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C6",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 3,
+      "position_in_measure": 3.0,
+      "event_start": 11.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 3.0,
+      "event_start": 11.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 3,
+      "position_in_measure": 3.0,
+      "event_start": 11.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 0.0,
+      "event_start": 12.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B3",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 0.0,
+      "event_start": 12.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 0.5,
+      "event_start": 12.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 1.0,
+      "event_start": 13.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 1.0,
+      "event_start": 13.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 1.5,
+      "event_start": 13.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 1.5,
+      "event_start": 13.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 1.5,
+      "event_start": 13.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 2.0,
+      "event_start": 14.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 4,
+      "position_in_measure": 3.0,
+      "event_start": 15.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 3.0,
+      "event_start": 15.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 4,
+      "position_in_measure": 3.0,
+      "event_start": 15.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 0.0,
+      "event_start": 16.0,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 5,
+      "position_in_measure": 0.0,
+      "event_start": 16.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 0.5,
+      "event_start": 16.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 0.75,
+      "event_start": 16.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 1.0,
+      "event_start": 17.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 2.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 5,
+      "position_in_measure": 1.0,
+      "event_start": 17.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 1.0,
+      "event_start": 17.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 1.5,
+      "event_start": 17.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 1.5,
+      "event_start": 17.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 2.0,
+      "event_start": 18.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 2.0,
+      "event_start": 18.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 2.0,
+      "event_start": 18.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 3.0,
+      "event_start": 18.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 3.0,
+      "event_start": 19.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "F3.C4",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 5,
+      "position_in_measure": 3.0,
+      "event_start": 19.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 3.0,
+      "event_start": 19.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 3.0,
+      "event_start": 19.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 5,
+      "position_in_measure": 4.0,
+      "event_start": 19.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 0.0,
+      "event_start": 20.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "E3.C4",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 6,
+      "position_in_measure": 0.0,
+      "event_start": 20.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 0.5,
+      "event_start": 20.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 0.75,
+      "event_start": 20.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 1.0,
+      "event_start": 21.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 2.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 6,
+      "position_in_measure": 1.0,
+      "event_start": 21.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 1.0,
+      "event_start": 21.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 1.5,
+      "event_start": 21.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 1.5,
+      "event_start": 21.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 2.0,
+      "event_start": 22.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 2.0,
+      "event_start": 22.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 2.0,
+      "event_start": 22.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 3.0,
+      "event_start": 22.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 3.0,
+      "event_start": 23.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "E3.C4",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 6,
+      "position_in_measure": 3.0,
+      "event_start": 23.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 3.0,
+      "event_start": 23.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 3.0,
+      "event_start": 23.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 6,
+      "position_in_measure": 4.0,
+      "event_start": 23.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 0.0,
+      "event_start": 24.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "D3.B3",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 0.0,
+      "event_start": 24.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 0.5,
+      "event_start": 24.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 0.75,
+      "event_start": 24.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 2.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 1.0,
+      "event_start": 25.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 1.5,
+      "event_start": 25.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 1.5,
+      "event_start": 25.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 2.0,
+      "event_start": 26.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 26.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "D3.B3",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 3.0,
+      "event_start": 27.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 7,
+      "position_in_measure": 4.0,
+      "event_start": 27.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 0.0,
+      "event_start": 28.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "C3.C4",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 8,
+      "position_in_measure": 0.0,
+      "event_start": 28.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 0.5,
+      "event_start": 28.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 0.75,
+      "event_start": 28.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 1.0,
+      "event_start": 29.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 2.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 8,
+      "position_in_measure": 1.0,
+      "event_start": 29.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 1.0,
+      "event_start": 29.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 1.5,
+      "event_start": 29.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 1.5,
+      "event_start": 29.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 2.0,
+      "event_start": 30.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 2.0,
+      "event_start": 30.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 2.0,
+      "event_start": 30.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 3.0,
+      "event_start": 30.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 3.0,
+      "event_start": 31.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "C3.E3",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 8,
+      "position_in_measure": 3.0,
+      "event_start": 31.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 3.0,
+      "event_start": 31.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 3.0,
+      "event_start": 31.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 8,
+      "position_in_measure": 4.0,
+      "event_start": 31.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 0.0,
+      "event_start": 32.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "CHORD",
+      "pitch": "F3.A3",
+      "duration": 4.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 9,
+      "position_in_measure": 0.0,
+      "event_start": 32.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 0.5,
+      "event_start": 32.5,
+      "time_shift": 0.5
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 0.75,
+      "event_start": 32.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 1.0,
+      "event_start": 33.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 1.0,
+      "event_start": 33.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 1.5,
+      "event_start": 33.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C#5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 1.5,
+      "event_start": 33.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 2.0,
+      "event_start": 34.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 2.0,
+      "event_start": 34.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 2.0,
+      "event_start": 34.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C#5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 3.0,
+      "event_start": 34.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 3.0,
+      "event_start": 35.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 3.0,
+      "event_start": 35.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 3.0,
+      "event_start": 35.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 9,
+      "position_in_measure": 4.0,
+      "event_start": 35.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 0.0,
+      "event_start": 36.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F3",
+      "duration": 1.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 10,
+      "position_in_measure": 0.0,
+      "event_start": 36.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 0.25,
+      "event_start": 36.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C6",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 0.5,
+      "event_start": 36.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 0.75,
+      "event_start": 36.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 1.0,
+      "event_start": 37.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 1.0,
+      "event_start": 37.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 1.5,
+      "event_start": 37.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 10,
+      "position_in_measure": 1.5,
+      "event_start": 37.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 1.5,
+      "event_start": 37.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A3",
+      "duration": 1.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "A5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 2.0,
+      "event_start": 38.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 3.0,
+      "event_start": 38.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 3.0,
+      "event_start": 39.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 3.0,
+      "event_start": 39.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 3.0,
+      "event_start": 39.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "F#3",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 10,
+      "position_in_measure": 3.0,
+      "event_start": 39.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 10,
+      "position_in_measure": 4.0,
+      "event_start": 39.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B4",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 0.0,
+      "event_start": 40.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 0.0,
+      "event_start": 40.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B2",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 0.25,
+      "event_start": 40.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 0.5,
+      "event_start": 40.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 0.5,
+      "event_start": 40.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 0.75,
+      "event_start": 40.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 1.0,
+      "event_start": 41.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 1.0,
+      "event_start": 41.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 1.0,
+      "event_start": 41.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 1.5,
+      "event_start": 41.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 1.5,
+      "event_start": 41.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 1.5,
+      "event_start": 41.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "B2",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 2.0,
+      "event_start": 42.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 42.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.25,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "C5",
+      "duration": 0.5,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.5,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "E3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 3.0,
+      "event_start": 43.5,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 0.25,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 11,
+      "position_in_measure": 4.0,
+      "event_start": 43.75,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "D5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 12,
+      "position_in_measure": 0.0,
+      "event_start": 44.0,
+      "time_shift": 0.25
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 0.0,
+      "event_start": 44.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "CHORD",
+      "pitch": "B4.D5.G5",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 12,
+      "position_in_measure": 1.0,
+      "event_start": 45.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G3",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 1.0,
+      "event_start": 45.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G4",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 12,
+      "position_in_measure": 2.0,
+      "event_start": 46.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "NOTE",
+      "pitch": "G2",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 2.0,
+      "event_start": 46.0,
+      "time_shift": 0.0
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 1,
+      "measure": 12,
+      "position_in_measure": 3.0,
+      "event_start": 47.0,
+      "time_shift": 1.0
+    },
+    {
+      "type": "REST",
+      "pitch": "NONE",
+      "duration": 1.0,
+      "tempo": 130,
+      "instrument": "MusicXML Part",
+      "part": 2,
+      "measure": 12,
+      "position_in_measure": 3.0,
+      "event_start": 47.0,
+      "time_shift": 0.0
     }
   ],
+  "harmonic_events": [
+    {
+      "pitches": [
+        "C4",
+        "C5"
+      ],
+      "root": "C4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 0.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 0.5
+    },
+    {
+      "pitches": [
+        "E4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 1.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 1.5
+    },
+    {
+      "pitches": [
+        "C4",
+        "E5"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 2.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 2.5
+    },
+    {
+      "pitches": [
+        "E4",
+        "G5"
+      ],
+      "root": "E4",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 3.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "G5"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 3.5
+    },
+    {
+      "pitches": [
+        "D4",
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 4.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "B4"
+      ],
+      "root": "G4",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 4.5
+    },
+    {
+      "pitches": [
+        "F4",
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 5.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 5.5
+    },
+    {
+      "pitches": [
+        "G4",
+        "D5"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 5.75
+    },
+    {
+      "pitches": [
+        "C4",
+        "C5"
+      ],
+      "root": "C4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 6.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 6.5
+    },
+    {
+      "pitches": [
+        "E4"
+      ],
+      "root": "E4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 7.0
+    },
+    {
+      "pitches": [
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 7.5
+    },
+    {
+      "pitches": [
+        "C4",
+        "A5"
+      ],
+      "root": "A5",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 8.0
+    },
+    {
+      "pitches": [
+        "A4",
+        "A5"
+      ],
+      "root": "A4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 8.5
+    },
+    {
+      "pitches": [
+        "F4",
+        "A5"
+      ],
+      "root": "F4",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 9.0
+    },
+    {
+      "pitches": [
+        "A4",
+        "A5"
+      ],
+      "root": "A4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 9.5
+    },
+    {
+      "pitches": [
+        "C4",
+        "G5"
+      ],
+      "root": "C4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 10.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "G5"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 10.5
+    },
+    {
+      "pitches": [
+        "E4",
+        "C6"
+      ],
+      "root": "C6",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 11.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "C6"
+      ],
+      "root": "C6",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 11.5
+    },
+    {
+      "pitches": [
+        "B3",
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 12.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "G5"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 12.5
+    },
+    {
+      "pitches": [
+        "D4",
+        "F5"
+      ],
+      "root": "D4",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 13.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 13.5
+    },
+    {
+      "pitches": [
+        "G4",
+        "F5"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 13.75
+    },
+    {
+      "pitches": [
+        "C4",
+        "E5"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 14.0
+    },
+    {
+      "pitches": [
+        "G4",
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 14.5
+    },
+    {
+      "pitches": [
+        "E4"
+      ],
+      "root": "E4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 15.0
+    },
+    {
+      "pitches": [
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "other",
+      "duration": 0.5,
+      "event_start": 15.5
+    },
+    {
+      "pitches": [
+        "F4",
+        "A4"
+      ],
+      "root": "F4",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 16.0
+    },
+    {
+      "pitches": [
+        "F4",
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 16.5
+    },
+    {
+      "pitches": [
+        "F4",
+        "C5"
+      ],
+      "root": "F4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 16.75
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 17.0
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 17.25
+    },
+    {
+      "pitches": [
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 17.5
+    },
+    {
+      "pitches": [
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 17.75
+    },
+    {
+      "pitches": [
+        "A5"
+      ],
+      "root": "A5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 18.0
+    },
+    {
+      "pitches": [
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 18.25
+    },
+    {
+      "pitches": [
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 18.5
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 18.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 19.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "C5"
+      ],
+      "root": "F3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 19.25
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 19.5
+    },
+    {
+      "pitches": [
+        "F3",
+        "C4",
+        "A4"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 19.75
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 20.0
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "A4"
+      ],
+      "root": "A4",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 20.5
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "B4"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 20.75
+    },
+    {
+      "pitches": [
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 21.0
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 21.25
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 21.5
+    },
+    {
+      "pitches": [
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 21.75
+    },
+    {
+      "pitches": [
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 22.0
+    },
+    {
+      "pitches": [
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 22.25
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 22.5
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 22.75
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "C5"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 23.0
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "B4"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 23.25
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "A4"
+      ],
+      "root": "A4",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 23.5
+    },
+    {
+      "pitches": [
+        "E3",
+        "C4",
+        "G4"
+      ],
+      "root": "C4",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 23.75
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "F4"
+      ],
+      "root": "B3",
+      "quality": "diminished",
+      "duration": 0.5,
+      "event_start": 24.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 24.5
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "A4"
+      ],
+      "root": "B3",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 24.75
+    },
+    {
+      "pitches": [
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 25.0
+    },
+    {
+      "pitches": [
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 25.25
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 25.5
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 25.75
+    },
+    {
+      "pitches": [
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 26.0
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 26.25
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 26.5
+    },
+    {
+      "pitches": [
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 26.75
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "B4"
+      ],
+      "root": "B3",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 27.0
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "A4"
+      ],
+      "root": "B3",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 27.25
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "G4"
+      ],
+      "root": "G4",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 27.5
+    },
+    {
+      "pitches": [
+        "D3",
+        "B3",
+        "F4"
+      ],
+      "root": "B3",
+      "quality": "diminished",
+      "duration": 0.25,
+      "event_start": 27.75
+    },
+    {
+      "pitches": [
+        "C3",
+        "C4",
+        "E4"
+      ],
+      "root": "C3",
+      "quality": "major",
+      "duration": 0.5,
+      "event_start": 28.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "C4",
+        "F4"
+      ],
+      "root": "F4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 28.5
+    },
+    {
+      "pitches": [
+        "C3",
+        "C4",
+        "G4"
+      ],
+      "root": "C3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 28.75
+    },
+    {
+      "pitches": [
+        "A4"
+      ],
+      "root": "A4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 29.0
+    },
+    {
+      "pitches": [
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 29.25
+    },
+    {
+      "pitches": [
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 29.5
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 29.75
+    },
+    {
+      "pitches": [
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 30.0
+    },
+    {
+      "pitches": [
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 30.25
+    },
+    {
+      "pitches": [
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 30.5
+    },
+    {
+      "pitches": [
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 30.75
+    },
+    {
+      "pitches": [
+        "C3",
+        "E3",
+        "A4"
+      ],
+      "root": "A4",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 31.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "E3",
+        "G4"
+      ],
+      "root": "C3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 31.25
+    },
+    {
+      "pitches": [
+        "C3",
+        "E3",
+        "F4"
+      ],
+      "root": "F4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 31.5
+    },
+    {
+      "pitches": [
+        "C3",
+        "E3",
+        "E4"
+      ],
+      "root": "C3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 31.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "D4"
+      ],
+      "root": "D4",
+      "quality": "minor",
+      "duration": 0.5,
+      "event_start": 32.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "E4"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 32.5
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "F4"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 32.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "G4"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 33.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "A4"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 33.25
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 33.5
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "C#5"
+      ],
+      "root": "F3",
+      "quality": "augmented",
+      "duration": 0.25,
+      "event_start": 33.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 34.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "A4"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 34.25
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "B4"
+      ],
+      "root": "B4",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 34.5
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "C#5"
+      ],
+      "root": "F3",
+      "quality": "augmented",
+      "duration": 0.25,
+      "event_start": 34.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 35.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "E5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 35.25
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "F5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 35.5
+    },
+    {
+      "pitches": [
+        "F3",
+        "A3",
+        "G5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 35.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "A5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 36.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "B5"
+      ],
+      "root": "B5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 36.25
+    },
+    {
+      "pitches": [
+        "F3",
+        "C6"
+      ],
+      "root": "F3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 36.5
+    },
+    {
+      "pitches": [
+        "F3",
+        "B5"
+      ],
+      "root": "B5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 36.75
+    },
+    {
+      "pitches": [
+        "F3",
+        "A5"
+      ],
+      "root": "F3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 37.0
+    },
+    {
+      "pitches": [
+        "F3",
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 37.25
+    },
+    {
+      "pitches": [
+        "G3",
+        "F5"
+      ],
+      "root": "G3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 37.5
+    },
+    {
+      "pitches": [
+        "G3",
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 37.75
+    },
+    {
+      "pitches": [
+        "A3",
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 38.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "G5"
+      ],
+      "root": "A3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 38.25
+    },
+    {
+      "pitches": [
+        "A3",
+        "A5"
+      ],
+      "root": "A3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 38.5
+    },
+    {
+      "pitches": [
+        "A3",
+        "G5"
+      ],
+      "root": "A3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 38.75
+    },
+    {
+      "pitches": [
+        "A3",
+        "F5"
+      ],
+      "root": "F5",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 39.0
+    },
+    {
+      "pitches": [
+        "A3",
+        "E5"
+      ],
+      "root": "A3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 39.25
+    },
+    {
+      "pitches": [
+        "F#3",
+        "D5"
+      ],
+      "root": "D5",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 39.5
+    },
+    {
+      "pitches": [
+        "F#3",
+        "C5"
+      ],
+      "root": "F#3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 39.75
+    },
+    {
+      "pitches": [
+        "G2",
+        "B4"
+      ],
+      "root": "G2",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 40.0
+    },
+    {
+      "pitches": [
+        "B2",
+        "B4"
+      ],
+      "root": "B2",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 40.25
+    },
+    {
+      "pitches": [
+        "D3",
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 40.5
+    },
+    {
+      "pitches": [
+        "G3",
+        "G5"
+      ],
+      "root": "G3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 40.75
+    },
+    {
+      "pitches": [
+        "G2",
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 41.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "E5"
+      ],
+      "root": "C3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 41.25
+    },
+    {
+      "pitches": [
+        "E3",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 41.5
+    },
+    {
+      "pitches": [
+        "G3",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 41.75
+    },
+    {
+      "pitches": [
+        "G2",
+        "D5"
+      ],
+      "root": "G2",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 42.0
+    },
+    {
+      "pitches": [
+        "B2",
+        "D5"
+      ],
+      "root": "B2",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 42.25
+    },
+    {
+      "pitches": [
+        "D3",
+        "G5"
+      ],
+      "root": "G5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 42.5
+    },
+    {
+      "pitches": [
+        "G3",
+        "G5"
+      ],
+      "root": "G3",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 42.75
+    },
+    {
+      "pitches": [
+        "G2",
+        "E5"
+      ],
+      "root": "E5",
+      "quality": "minor",
+      "duration": 0.25,
+      "event_start": 43.0
+    },
+    {
+      "pitches": [
+        "C3",
+        "E5"
+      ],
+      "root": "C3",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 43.25
+    },
+    {
+      "pitches": [
+        "E3",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "major",
+      "duration": 0.25,
+      "event_start": 43.5
+    },
+    {
+      "pitches": [
+        "G3",
+        "C5"
+      ],
+      "root": "C5",
+      "quality": "other",
+      "duration": 0.25,
+      "event_start": 43.75
+    },
+    {
+      "pitches": [
+        "G2",
+        "D5"
+      ],
+      "root": "G2",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 44.0
+    },
+    {
+      "pitches": [
+        "G3",
+        "B4",
+        "D5",
+        "G5"
+      ],
+      "root": "G3",
+      "quality": "major",
+      "duration": 1.0,
+      "event_start": 45.0
+    },
+    {
+      "pitches": [
+        "G2",
+        "G4"
+      ],
+      "root": "G2",
+      "quality": "other",
+      "duration": 1.0,
+      "event_start": 46.0
+    }
+  ],
+  "file_name": "movement1_exposition.mid",
   "composer": "mozart"
 }
