@@ -64,7 +64,7 @@ def build_vector_space(prepared_files, representation_name, token_field):
     vectorizer = TfidfVectorizer(lowercase=False, token_pattern=r"(?u)\S+", ngram_range=NGRAM_RANGE, sublinear_tf=True, norm="l2")
     tfidf_matrix = vectorizer.fit_transform(documents)
 
-    vectorizer_path = INDEX_FOLDER/f"{representation_name}_vectorizes.pkl"
+    vectorizer_path = INDEX_FOLDER/f"{representation_name}_vectorizer.pkl"
     matrix_path = INDEX_FOLDER/f"{representation_name}_matrix.npz"
     joblib.dump(vectorizer, vectorizer_path)
     save_npz(matrix_path, tfidf_matrix, compressed=True)
