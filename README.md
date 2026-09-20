@@ -1,18 +1,18 @@
 # Classical Music Retrieval
 
-Sistem za pretrazivanje klasicnih kompozicija na osnovu slicnosti melodijskih, ritmickih i harmonskih obrazaca izdvojenih iz MIDI zapisa.
+Sistem za pretrazivanje klasicnih kompozicija na osnovu slicnosti tonskih, ritmickih i harmonskih obrazaca izdvojenih iz MIDI zapisa.
 
 ## Cilj projekta
 
-Korisnik aplikaciji prosledjuje kraći MIDI odlomak, nakon cega sistem pretrazuje kolekciju klasicnih kompozicija i vraća rangiranu listu najslicnijih rezultata.
+Korisnik aplikaciji prosledjuje kraci MIDI odlomak, nakon cega sistem pretrazuje kolekciju klasicnih kompozicija i vraca rangiranu listu najslicnijih rezultata.
 
-## Planirane funkcionalnosti
+## Funkcionalnosti
 
 - ucitavanje i obrada MIDI fajlova;
-- izdvajanje nota, intervala, trajanja i akorda;
+- izdvajanje nota, akorda, pauza i njihovih trajanja;
 - formiranje muzickih n-grama;
-- racunanje melodijske, ritmicke i harmonske slicnosti;
-- rangiranje kompozicija;
+- izracunavanje tonske, ritmicke, kombinovane i harmonske slicnosti;
+- rangiranje pronadjenih kompozicija;
 - prikaz rezultata kroz Streamlit aplikaciju.
 
 ## Tehnologije
@@ -21,17 +21,15 @@ Korisnik aplikaciji prosledjuje kraći MIDI odlomak, nakon cega sistem pretrazuj
 - music21
 - NumPy
 - pandas
+- SciPy
 - scikit-learn
 - Streamlit
+- Docker
 
-## Pokretanje projekta
+## Pokretanje aplikacije pomocu Dockera
 
-Aktiviranje virtuelnog okruzenja:
+Aplikacija se preuzima sa Docker Hub-a i pokrece komandom:
 
 ```bash
-source .venv/bin/activate
+docker run --rm -p 8501:8501 suncic/classic-music-retrieval:latest
 ```
-Pokretanje streamlit aplikacije:
-
-```bash
-streamlit run app/app.py

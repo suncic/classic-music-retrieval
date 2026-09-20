@@ -18,11 +18,4 @@ RUN python src/parse_midi.py && python src/prepare_data.py && python src/build_i
 
 EXPOSE 8501
 
-CMD [
-    "streamlit",
-    "run",
-    "app/app.py",
-    "--server.address=0.0.0.0",
-    "--server.port=8501",
-    "--server.headless=true"
-]
+CMD ["streamlit", "run", "app/app.py", "--server.address=0.0.0.0", "--server.port=8501", "--server.headless=true"]
